@@ -26,7 +26,7 @@ I'm a second year UTN undergraduate pursuing Programming technology. I am creati
 
 <h2> / how to reach me / </h2>
 
-<a href=""><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ignacio-dente-2a9b4b238/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ignacioprogramando@gmail.com"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
 
