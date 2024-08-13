@@ -20,9 +20,7 @@ I'm a second year UTN undergraduate pursuing Programming technology. I am creati
     <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/>
 
 - <h4> tools </h4>
-<img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
-
-
+  <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 
 <h2> / how to reach me / </h2>
 
